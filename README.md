@@ -9,10 +9,15 @@ A simple Tic-Tac-Toe game built with React.js. The game allows two players to se
 - A list below the grid shows each move made by the players, including the row and column of the selected cell.
 - A pop-up message appears to announce the result when a player wins, loses, or when the game ends in a draw.
 
+<img width="1792" alt="Screenshot 2025-01-07 at 5 42 49 PM" src="https://github.com/user-attachments/assets/58357c71-703c-4a77-818d-cb49d2b5ad8e" />
 
-## Demo
+<img width="1223" alt="Screenshot 2025-01-07 at 5 43 15 PM" src="https://github.com/user-attachments/assets/dc5d9f27-86b9-48a7-a4e8-9f980bec0146" />
 
-You can watch the demo video [here](https://link-to-your-video.com).
+<img width="1131" alt="Screenshot 2025-01-07 at 5 43 46 PM" src="https://github.com/user-attachments/assets/543071a8-c658-475d-9178-a9dfb63a1ca8" />
+
+<img width="984" alt="Screenshot 2025-01-07 at 5 46 15 PM" src="https://github.com/user-attachments/assets/e123fb73-bb30-42eb-be42-38077b3e3487" />
+
+<img width="1459" alt="Screenshot 2025-01-07 at 5 44 42 PM" src="https://github.com/user-attachments/assets/6a62f735-21bf-42c0-9601-9a23c8db0f5d" />
 
 
 ## Usage
