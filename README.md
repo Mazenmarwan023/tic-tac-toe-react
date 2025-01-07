@@ -13,15 +13,15 @@ A simple Tic-Tac-Toe game built with React.js. The game allows two players to se
 
 Here are some screenshots of the Tic-Tac-Toe game interface:
 
-<img width="500" alt="Screenshot 2025-01-07 at 5 42 49 PM" src="https://github.com/user-attachments/assets/58357c71-703c-4a77-818d-cb49d2b5ad8e" />
+<img width="800" alt="Screenshot 2025-01-07 at 5 42 49 PM" src="https://github.com/user-attachments/assets/58357c71-703c-4a77-818d-cb49d2b5ad8e" />
 
-<img width="500" alt="Screenshot 2025-01-07 at 5 43 15 PM" src="https://github.com/user-attachments/assets/dc5d9f27-86b9-48a7-a4e8-9f980bec0146" />
+<img width="800" alt="Screenshot 2025-01-07 at 5 43 15 PM" src="https://github.com/user-attachments/assets/dc5d9f27-86b9-48a7-a4e8-9f980bec0146" />
 
-<img width="500" alt="Screenshot 2025-01-07 at 5 43 46 PM" src="https://github.com/user-attachments/assets/543071a8-c658-475d-9178-a9dfb63a1ca8" />
+<img width="800" alt="Screenshot 2025-01-07 at 5 43 46 PM" src="https://github.com/user-attachments/assets/543071a8-c658-475d-9178-a9dfb63a1ca8" />
 
-<img width="500" alt="Screenshot 2025-01-07 at 5 46 15 PM" src="https://github.com/user-attachments/assets/e123fb73-bb30-42eb-be42-38077b3e3487" />
+<img width="800" alt="Screenshot 2025-01-07 at 5 46 15 PM" src="https://github.com/user-attachments/assets/e123fb73-bb30-42eb-be42-38077b3e3487" />
 
-<img width="500" alt="Screenshot 2025-01-07 at 5 44 42 PM" src="https://github.com/user-attachments/assets/6a62f735-21bf-42c0-9601-9a23c8db0f5d" />
+<img width="800" alt="Screenshot 2025-01-07 at 5 44 42 PM" src="https://github.com/user-attachments/assets/6a62f735-21bf-42c0-9601-9a23c8db0f5d" />
 
 
 ## Usage
