@@ -64,6 +64,8 @@ Here are some screenshots of the Tic-Tac-Toe game interface:
 
 - React.js
 - Vite
+- JavaScript (ES6+)
+- CSS
 
 ## License
 
